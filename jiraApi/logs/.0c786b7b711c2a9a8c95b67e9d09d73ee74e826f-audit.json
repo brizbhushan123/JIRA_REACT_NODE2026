@@ -1,0 +1,40 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/var/www/html/jiraApi/logs/.0c786b7b711c2a9a8c95b67e9d09d73ee74e826f-audit.json",
+    "files": [
+        {
+            "date": 1779480699579,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-23.log",
+            "hash": "87b7cbf0e1a1739e27a6cffa51ece8a8aec2dab05934a17a242bfd955e1d4df1"
+        },
+        {
+            "date": 1779611591402,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-24.log",
+            "hash": "0eb9ed9f972064c47b785d834bc15ebd183871c2084f4bc568408890c6cab0fb"
+        },
+        {
+            "date": 1779649846037,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-25.log",
+            "hash": "cdf79cbcce18b31ed37faa22066883d642928f4a1bf9ea37752f2a36b11bcd07"
+        },
+        {
+            "date": 1779816829641,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-26.log",
+            "hash": "e0eb41349686ca78027ee7fe4f86927db06844da1901fcffa551a22325121442"
+        },
+        {
+            "date": 1779820847834,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-27.log",
+            "hash": "690f2da29e9f74ca0bb8df4b09c4ca2e5d62bf6589e40aa8f11fb8b9a9fa8331"
+        },
+        {
+            "date": 1779907770574,
+            "name": "/var/www/html/jiraApi/logs/application-logger-2026-05-28.log",
+            "hash": "3b7cabce66da5db2ad900e31751955660aab8caea0c3918f24a4b1b824c37554"
+        }
+    ],
+    "hashType": "sha256"
+}

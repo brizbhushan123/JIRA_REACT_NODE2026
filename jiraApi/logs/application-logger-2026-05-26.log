@@ -1,0 +1,55 @@
+2026-05-26 23:46:12 [ERROR]: PayloadTooLargeError: request entity too large
+    at readStream (/var/www/html/jiraApi/node_modules/raw-body/index.js:163:17)
+    at getRawBody (/var/www/html/jiraApi/node_modules/raw-body/index.js:116:12)
+    at read (/var/www/html/jiraApi/node_modules/body-parser/lib/read.js:113:3)
+    at jsonParser (/var/www/html/jiraApi/node_modules/body-parser/lib/types/json.js:88:5)
+    at Layer.handleRequest (/var/www/html/jiraApi/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/var/www/html/jiraApi/node_modules/router/index.js:342:13)
+    at /var/www/html/jiraApi/node_modules/router/index.js:297:9
+    at processParams (/var/www/html/jiraApi/node_modules/router/index.js:582:12)
+    at next (/var/www/html/jiraApi/node_modules/router/index.js:291:5)
+    at cookieParser (/var/www/html/jiraApi/node_modules/cookie-parser/index.js:71:5)
+2026-05-26 23:46:15 [ERROR]: PayloadTooLargeError: request entity too large
+    at readStream (/var/www/html/jiraApi/node_modules/raw-body/index.js:163:17)
+    at getRawBody (/var/www/html/jiraApi/node_modules/raw-body/index.js:116:12)
+    at read (/var/www/html/jiraApi/node_modules/body-parser/lib/read.js:113:3)
+    at jsonParser (/var/www/html/jiraApi/node_modules/body-parser/lib/types/json.js:88:5)
+    at Layer.handleRequest (/var/www/html/jiraApi/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/var/www/html/jiraApi/node_modules/router/index.js:342:13)
+    at /var/www/html/jiraApi/node_modules/router/index.js:297:9
+    at processParams (/var/www/html/jiraApi/node_modules/router/index.js:582:12)
+    at next (/var/www/html/jiraApi/node_modules/router/index.js:291:5)
+    at cookieParser (/var/www/html/jiraApi/node_modules/cookie-parser/index.js:71:5)
+2026-05-26 23:47:56 [ERROR]: PayloadTooLargeError: request entity too large
+    at readStream (/var/www/html/jiraApi/node_modules/raw-body/index.js:163:17)
+    at getRawBody (/var/www/html/jiraApi/node_modules/raw-body/index.js:116:12)
+    at read (/var/www/html/jiraApi/node_modules/body-parser/lib/read.js:113:3)
+    at jsonParser (/var/www/html/jiraApi/node_modules/body-parser/lib/types/json.js:88:5)
+    at Layer.handleRequest (/var/www/html/jiraApi/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/var/www/html/jiraApi/node_modules/router/index.js:342:13)
+    at /var/www/html/jiraApi/node_modules/router/index.js:297:9
+    at processParams (/var/www/html/jiraApi/node_modules/router/index.js:582:12)
+    at next (/var/www/html/jiraApi/node_modules/router/index.js:291:5)
+    at cookieParser (/var/www/html/jiraApi/node_modules/cookie-parser/index.js:71:5)
+2026-05-26 23:47:59 [ERROR]: PayloadTooLargeError: request entity too large
+    at readStream (/var/www/html/jiraApi/node_modules/raw-body/index.js:163:17)
+    at getRawBody (/var/www/html/jiraApi/node_modules/raw-body/index.js:116:12)
+    at read (/var/www/html/jiraApi/node_modules/body-parser/lib/read.js:113:3)
+    at jsonParser (/var/www/html/jiraApi/node_modules/body-parser/lib/types/json.js:88:5)
+    at Layer.handleRequest (/var/www/html/jiraApi/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/var/www/html/jiraApi/node_modules/router/index.js:342:13)
+    at /var/www/html/jiraApi/node_modules/router/index.js:297:9
+    at processParams (/var/www/html/jiraApi/node_modules/router/index.js:582:12)
+    at next (/var/www/html/jiraApi/node_modules/router/index.js:291:5)
+    at cookieParser (/var/www/html/jiraApi/node_modules/cookie-parser/index.js:71:5)
+2026-05-26 23:48:05 [ERROR]: PayloadTooLargeError: request entity too large
+    at readStream (/var/www/html/jiraApi/node_modules/raw-body/index.js:163:17)
+    at getRawBody (/var/www/html/jiraApi/node_modules/raw-body/index.js:116:12)
+    at read (/var/www/html/jiraApi/node_modules/body-parser/lib/read.js:113:3)
+    at jsonParser (/var/www/html/jiraApi/node_modules/body-parser/lib/types/json.js:88:5)
+    at Layer.handleRequest (/var/www/html/jiraApi/node_modules/router/lib/layer.js:152:17)
+    at trimPrefix (/var/www/html/jiraApi/node_modules/router/index.js:342:13)
+    at /var/www/html/jiraApi/node_modules/router/index.js:297:9
+    at processParams (/var/www/html/jiraApi/node_modules/router/index.js:582:12)
+    at next (/var/www/html/jiraApi/node_modules/router/index.js:291:5)
+    at cookieParser (/var/www/html/jiraApi/node_modules/cookie-parser/index.js:71:5)
