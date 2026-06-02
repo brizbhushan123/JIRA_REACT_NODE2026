@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     proxy: {
       '/api': {
-        target: 'https://localhost:8400',
+        target: process.env.VITE_API_URL || 'https://localhost:8400',
         changeOrigin: true,
         secure: false,
       },

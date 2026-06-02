@@ -1,6 +1,7 @@
 export async function updateUserApi(userId, userData) {
     const response = await fetch(`/api/admin/users/${userId}`, {
         method: 'PUT',
+        credentials: 'include',
         headers: {
             'Content-Type': 'application/json',
         },
@@ -17,6 +18,7 @@ export async function updateUserApi(userId, userData) {
 export async function deleteUserApi(userId) {
     const response = await fetch(`/api/admin/users/${userId}`, {
         method: 'DELETE',
+        credentials: 'include',
     });
 
     if (!response.ok) {

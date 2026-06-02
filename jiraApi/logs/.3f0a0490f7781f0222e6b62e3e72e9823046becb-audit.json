@@ -1,0 +1,20 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/ginger/Videos/NODE_PROJECT/JIRA_REACT_NODE/jiraApi/logs/.3f0a0490f7781f0222e6b62e3e72e9823046becb-audit.json",
+    "files": [
+        {
+            "date": 1780333848405,
+            "name": "/home/ginger/Videos/NODE_PROJECT/JIRA_REACT_NODE/jiraApi/logs/application-logger-2026-06-01.log",
+            "hash": "c64b14180f343986b2e997cf13af9adbf7a38e69958c9beecdd9a5410a8336e1"
+        },
+        {
+            "date": 1780376357173,
+            "name": "/home/ginger/Videos/NODE_PROJECT/JIRA_REACT_NODE/jiraApi/logs/application-logger-2026-06-02.log",
+            "hash": "7f334ae7998c6e7fd2b333713ff8893448d63544e0d1341a1c7aa912c34b111f"
+        }
+    ],
+    "hashType": "sha256"
+}

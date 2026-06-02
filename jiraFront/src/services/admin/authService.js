@@ -24,8 +24,6 @@ export async function registerUser(credentials) {
     });
 }
 
-
-
 export async function loginAdmin(credentials) {
     return request('/admin/login', {
         method: 'POST',
